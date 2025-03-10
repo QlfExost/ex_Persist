@@ -1,1 +1,1 @@
-PersistEnabled=false
+PersistEnabled=true
